@@ -1,0 +1,24 @@
+Partlist
+
+Exported from RetroAdapter2CommonGround.sch at 23.03.17 09:13
+
+EAGLE Version 8.1.0 Copyright (c) 1988-2017 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Device                            Package                           Library  Sheet
+
+C1       100nF          C0805                             Z0805                             arcadetv 1
+C2       100nF          C0805                             Z0805                             arcadetv 1
+C3       100nF          C0805                             Z0805                             arcadetv 1
+C4       100nF          C0805                             Z0805                             arcadetv 1
+C5       22pF           C0805                             Z0805                             arcadetv 1
+C6       22pF           C0805                             Z0805                             arcadetv 1
+C7       10uF           EEEFPJ101UAR_PANASONIC_VFP-SERIES EEEFPJ101UAR_PANASONIC_VFP-SERIES arcadetv 1
+DB9                     M09HP                             M09HP                             con-subd 1
+DB15                    M15HP                             M15HP                             con-subd 1
+IC1      ATMEGA644A     ATMEGA644A                        TQFP44                            arcadetv 1
+ISP                     PINHD-2X5                         2X05                              pinhead  1
+JAMMA                   PINHD-2X8                         2X08                              pinhead  1
+Q2       15MHz          CRYSTALHC49S                      HC49/S                            crystal  1
+R2       10K            R-US_R0603                        R0603                             rcl      1
